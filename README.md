@@ -1,3 +1,3 @@
 # graphics-dendrogram
-use java graphics to make graphics-dendrogram generate an image
+java graphics 画树形图
 ![image](https://github.com/hardworkingman/graphics-dendrogram/blob/master/image.png)
